@@ -15,5 +15,5 @@ def take_a_number(array,name)
    puts "Welcome, #{name}. You are number #{array.length} in line."
 end
 
-def now_swrving
+def now_swrving(array)
   
